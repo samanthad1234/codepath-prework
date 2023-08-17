@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/walkthrough.gif](https://i.imgur.com/ubYGYCg.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ubYGYCg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## App Brainstorming (Step 4)
 1. Twitter: I like that Twitter is a text based app that allows users to share information and images while also having a user friendly interface.
