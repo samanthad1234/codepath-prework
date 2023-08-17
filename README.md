@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/walkthrough.gif](https://i.imgur.com/ubYGYCg.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 https://github.com/samanthad1234/codepath-prework/assets/119366333/3e1c95c2-17d4-41ad-98f9-72cba9af6bf5
 
