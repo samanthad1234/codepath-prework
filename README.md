@@ -21,11 +21,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='[http://i.imgur.com/walkthrough.gif](https://i.imgur.com/ubYGYCg.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-https://github.com/samanthad1234/codepath-prework/assets/119366333/3e1c95c2-17d4-41ad-98f9-72cba9af6bf5
-
-
-
-
 ## App Brainstorming (Step 4)
 1. Twitter: I like that Twitter is a text based app that allows users to share information and images while also having a user friendly interface.
 2. Tiktok: I like that Tiktok allows users to upload all different kinds of videos and I especially like the different kinds of filters they have on there those are pretty fun.
